@@ -1,11 +1,5 @@
-const computeGrades(grades) {
-    const gradeDistribution = {
-        A: 89,
-        B: 60,
-        C: 95,
-        D: 70,
-        F: 50,
-    };
+const computeGrades(grades) 
+
 
     grades.forEach(grade => {
         if (grade >= 90 && grade <= 100) {
